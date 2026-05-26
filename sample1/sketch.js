@@ -17,6 +17,7 @@ let particles = [];
 let bgm, hitSound;
 
 function preload() {
+  //효과음 코드 삽입 필요하나 효과음이 없어 공란으로 제출.
 }
 
 function setup() {
